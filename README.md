@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI & Machine Learning Enthusiast | Deep Learning Practitioner | Power BI & Excel | Built Real-World Projects: Heart Disease Detector, Bulldozer Price Predictor & Dog Vision | Bussiness Intelligence | Power BI | Database Management system.
+AI & Machine Learning Enthusiast | Deep Learning Practitioner | Power BI & Excel | Built Real-World Projects: Heart Disease Detector, Bulldozer Price Predictor & Dog Vision | Bussiness Intelligence | Power BI | Database Management system | Streamlit Cloud.
 
 
 ## 🌐 Socials:
